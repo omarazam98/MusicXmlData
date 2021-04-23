@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wasm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +81,8 @@
       <workItem from="1605085493240" duration="903000" />
       <workItem from="1605677436649" duration="92000" />
       <workItem from="1615961713538" duration="769000" />
+      <workItem from="1616751294302" duration="831000" />
+      <workItem from="1616804311204" duration="29000" />
     </task>
     <servers />
   </component>
